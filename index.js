@@ -2,7 +2,7 @@
 
 var name = "Jonathan"
 var holiday = "Halloween"
-var days = 20
+var days = 120
 
 function happyHolidays(){
   return "Happy holidays!"
