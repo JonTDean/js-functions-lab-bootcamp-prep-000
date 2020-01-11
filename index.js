@@ -5,11 +5,11 @@ var holiday = "Halloween"
 var days = 20
 
 function happyHolidays(){
-  return "Happy Holidays!"
+  return "Happy holidays!"
 }
 
 function happyHolidaysTo(name){
-  return `Happy Holidays, ${name}!`
+  return `Happy holidays, ${name}!`
 }
 
 function happyHolidayTo(holiday, name){
