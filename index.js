@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "Jonathan"
+var name = "you"
 var holiday = "Halloween"
 var days = 20
 
