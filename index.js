@@ -1,5 +1,4 @@
 // write your code below!
-
 var name = "Jonathan"
 var holiday = "Halloween"
 var days = 20
